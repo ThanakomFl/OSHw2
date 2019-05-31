@@ -1,0 +1,60 @@
+# process,12
+# page,2
+Page fault occurrence
+Round,FIFO,OPT,LRU
+1,7,7,8
+2,9,8,9
+3,8,7,7
+4,9,8,9
+5,10,8,9
+6,12,9,12
+7,10,8,9
+8,12,10,12
+9,11,8,11
+10,12,8,12
+AVG : ,10,8,9
+# process,12
+# page,3
+Page fault occurrence
+Round,FIFO,OPT,LRU
+1,9,7,10
+2,8,7,7
+3,8,6,7
+4,6,6,7
+5,7,5,8
+6,7,5,7
+7,7,6,8
+8,7,6,8
+9,6,6,6
+10,7,7,8
+AVG : ,7,6,7
+# process,12
+# page,4
+Page fault occurrence
+Round,FIFO,OPT,LRU
+1,4,4,4
+2,4,5,6
+3,5,6,7
+4,5,6,8
+5,5,6,7
+6,6,6,7
+7,6,5,6
+8,6,7,8
+9,5,6,7
+10,6,6,7
+AVG : ,5,5,6
+# process,12
+# page,5
+Page fault occurrence
+Round,FIFO,OPT,LRU
+1,5,6,8
+2,5,5,5
+3,5,6,6
+4,4,6,6
+5,5,7,8
+6,5,6,6
+7,5,6,6
+8,5,7,8
+9,5,6,8
+10,5,7,9
+AVG : ,4,6,7
